@@ -1,1 +1,1 @@
-rembg[cpu]==2.0.75
+rembg[cpu]==2.0.82
